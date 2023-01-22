@@ -1,0 +1,9 @@
+https://www.semanticscholar.org/paper/Chatbots-As-Fluent-Polyglots%3A-Revisiting-Code-Noever-Williams/270b015093073d3ba254928b6d736a59870d3fb1
+https://www.semanticscholar.org/paper/A-Survey-on-Pretrained-Language-Models-for-Neural-Xu-Zhu/bae76e1d13abe54f66dc140be53538b864578ba8
+https://www.semanticscholar.org/paper/Evaluating-Large-Language-Models-Trained-on-Code-Chen-Tworek/acbdbf49f9bc3f151b93d9ca9a06009f4f6eb269
+https://www.semanticscholar.org/paper/A-systematic-evaluation-of-large-language-models-of-Xu-Alon/b32a6f6ef7dd775e0f876b4713ceccebc56e651e
+https://www.semanticscholar.org/paper/Code-Generation-Tools-(Almost)-for-Free-A-Study-of-Bareiss-Souza/7ffb212356df9980347b3d3b9910dfba75a5d0c7
+https://www.semanticscholar.org/paper/Asking-Clarification-Questions-for-Code-Generation-Li-Mesgar/8210cef990b8e5cddbc95000e46309bdd25337f7
+https://www.semanticscholar.org/paper/Repository-Level-Prompt-Generation-for-Large-Models-Shrivastava-Larochelle/9bfda45ef365466cba27e47a9fdb98d15d78aa15
+https://www.semanticscholar.org/paper/DocPrompting%3A-Generating-Code-by-Retrieving-the-Zhou-Alon/b3a54332a0791751fcf234f6264f242c42ac00d2
+https://www.semanticscholar.org/paper/Measuring-Coding-Challenge-Competence-With-APPS-Hendrycks-Basart/1ccd031f28dccfb226f6c0c588c93a97a50bf95f
