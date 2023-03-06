@@ -1,1 +1,3 @@
-https://arxiv.org/abs/2301.03988
+https://www.semanticscholar.org/paper/SantaCoder%3A-don't-reach-for-the-stars!-Allal-Li/1bf21dabbdfc81fd4f9e92b1201ecce744cabb6a
+https://www.semanticscholar.org/paper/CoTexT%3A-Multi-task-Learning-with-Code-Text-Phan-Tran/0b077c9577f4297dcf3da835e253d21965bbc6e0
+https://www.semanticscholar.org/paper/Summarize-and-Generate-to-Back-translate%3A-of-Ahmad-Chakraborty/636f854b1a3a983e6803eae0277179596cc2cb95
